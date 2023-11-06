@@ -9,4 +9,4 @@
 
 🧠 Recently I've been exploring evolutionary machine learning writing [NEATJS](https://github.com/JAWalmsley/NEATJS), an implementation of NeuroEvolution of Augmenting Topologies in Javascript.
 
-📱 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jack-walmsley/)
+📱 Feel free to check out my [website](https://jackwalmsley.com) or reach out on [LinkedIn](https://www.linkedin.com/in/jack-walmsley/)
